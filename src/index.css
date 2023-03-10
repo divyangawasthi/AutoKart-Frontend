@@ -1,0 +1,23 @@
+
+body {
+  margin: 0;
+  
+
+  /* background-image: url("../public/images/autokart_background.png") !important;
+  background-repeat: repeat;
+  background-size: 1600px 840px; */
+  background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+  
+  
+
+  
+  overflow-x: hidden;
+   scrollbar-color: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    scrollbar-width: thick;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
